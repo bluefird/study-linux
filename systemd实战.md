@@ -1,3 +1,9 @@
+# Systemd 入门教程：实战篇
+
+作者： [阮一峰](http://www.ruanyifeng.com)
+
+日期： [2016年3月 8日](http://www.ruanyifeng.com/blog/2016/03/)
+
 ## 一、开机启动
 
 对于那些支持 Systemd 的软件，安装的时候，会自动在`/usr/lib/systemd/system`目录添加一个配置文件。

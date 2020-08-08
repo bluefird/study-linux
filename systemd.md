@@ -1,3 +1,7 @@
+作者： [阮一峰](http://www.ruanyifeng.com)
+
+日期： [2016年3月 7日](http://www.ruanyifeng.com/blog/2016/03/)
+
 Systemd 架构图
 
 ![bg2016030703](https://i.loli.net/2020/08/08/Hsr8JBFtpfDVXjC.png)
